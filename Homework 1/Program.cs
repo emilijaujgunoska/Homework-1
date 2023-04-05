@@ -6,9 +6,10 @@ double num1 = Convert.ToDouble(Console.ReadLine());
 
 Console.WriteLine("**********************\n");
 
-
 Console.WriteLine("Enter second number: ");
 double num2 = Convert.ToDouble(Console.ReadLine());
+
+Console.WriteLine("**********************\n");
 
 Console.WriteLine("Enter operation (+, -, *, /): ");
 char operation = Convert.ToChar(Console.ReadLine());
