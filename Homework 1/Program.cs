@@ -4,6 +4,9 @@ Console.WriteLine("Write a C# Sharp program that takes two numbers as user input
 Console.WriteLine("Enter first number: ");
 double num1 = Convert.ToDouble(Console.ReadLine());
 
+Console.WriteLine("**********************\n");
+
+
 Console.WriteLine("Enter second number: ");
 double num2 = Convert.ToDouble(Console.ReadLine());
 
